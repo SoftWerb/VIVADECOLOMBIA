@@ -80,7 +80,7 @@ header img {
     height: 100vh;
     overflow: hidden;
     position: relative;
-    background-image: url(/img/fondo-texturizado-colores-brillantes-patrones-geometricos_1120604-514.avif);
+    background-image: url(img/fondo-texturizado-colores-brillantes-patrones-geometricos_1120604-514.avif);
     background-size: cover;
     background-repeat: no-repeat;
     margin-top: -50px;
@@ -234,7 +234,7 @@ header img {
     text-align: center;
     margin-top: 103px;
     border-radius: 34px;
-    background-image: url(/img/fondo-texturizado-colores-brillantes-patrones-geometricos_1120604-514.avif);
+    background-image: url(img/fondo-texturizado-colores-brillantes-patrones-geometricos_1120604-514.avif);
     background-size: cover;
     background-repeat: no-repeat;
     border: 1px solid rgba(255, 255, 255, 0.5);
@@ -529,15 +529,15 @@ nav {
 }
 
 .banner__card:nth-child(1) {
-    background-image: url("/img/gente-disfrutando-de-la-barbacoa-mexicana\ \(1\).jpg");
+    background-image: url("img/gente-disfrutando-de-la-barbacoa-mexicana\ \(1\).jpg");
 }
 
 .banner__card:nth-child(2) {
-    background-image: url("/img/gente-disfrutando-de-la-barbacoa-mexicana.jpg");
+    background-image: url("img/gente-disfrutando-de-la-barbacoa-mexicana.jpg");
 }
 
 .banner__card:nth-child(3) {
-    background-image: url("/img/primer-plano-de-un-anciano-comiendo-un-delicioso-taco.jpg");
+    background-image: url("img/primer-plano-de-un-anciano-comiendo-un-delicioso-taco.jpg");
 }
 
 .banner__card p {
