@@ -30,7 +30,7 @@ header {
 
 header img {
     width: 17%;
-    margin-top: -36px;
+    margin-top: -18px;
     /* Se adapta al ancho de la pantalla */
     height: auto;
     /* Mantiene proporción */
@@ -39,7 +39,7 @@ header img {
 
 h2 {
     color: #f0eeef;
-    margin-top: -5%;
+    margin-top: -49%;
 }
 
 
@@ -182,7 +182,18 @@ header .shopping img {
     color: #fff;
     width: 100%;
     padding: 10px;
+    border-radius: 20px;
 }
+
+
+.list .item button:hover {
+    background-color: #1e810b;
+    color: #fff;
+    width: 100%;
+    padding: 10px;
+    border-radius: 20px;
+}
+
 
 .card {
     position: fixed;
@@ -305,3 +316,4 @@ h1 {
         background-position: var(--width);
     }
 }
+
